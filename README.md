@@ -1,0 +1,1 @@
+echo "# StudentClub-and-Event-Administration-System-of-Quy-Nhon-University"
